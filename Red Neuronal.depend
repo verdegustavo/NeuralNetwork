@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1491794765 source:/home/gustavo/Programming/C++/CodeBlocks Projects/Red Neuronal/main.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	"redneuronal.h"
+	"logFile.h"
+	<fstream>
+	<string>
+
+1491795018 /home/gustavo/Programming/C++/CodeBlocks Projects/Red Neuronal/include/redneuronal.h
+	<iostream>
+	<armadillo>
+	<string>
+	<sstream>
+	<ctime>
+	<fstream>
+	<vector>
+	<map>
+	"logFile.h"
+
+1491795018 source:/home/gustavo/Programming/C++/CodeBlocks Projects/Red Neuronal/src/redneuronal.cpp
+	"redneuronal.h"
+
+1456588681 /home/gustavo/Programming/C++/CodeBlocks Projects/Red Neuronal/include/logFile.h
+	<fstream>
+	<ctime>
+	<iomanip>
+	<iostream>
+	<sstream>
+
+1471322281 source:/home/gustavo/Programming/C++/CodeBlocks Projects/Red Neuronal/src/optimizador.cpp
+	"optimizador.h"
+
+1471322281 /home/gustavo/Programming/C++/CodeBlocks Projects/Red Neuronal/include/optimizador.h
+	<armadillo>
+

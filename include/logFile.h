@@ -1,0 +1,1 @@
+/home/gustavo/Programming/C++/CodeBlocks Projects/Logger/include/LogFile.h
